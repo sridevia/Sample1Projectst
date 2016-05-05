@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample1Projectst</string>
+    <string name="action_settings">Settings</string>
+    <string name="SignIntitle">Sign In</string>
+    <string name="Logintitle">Log In</string>
+    <string name="activitymain">Log In</string>
+</resources>
